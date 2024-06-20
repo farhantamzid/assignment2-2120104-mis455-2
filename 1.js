@@ -10,3 +10,4 @@ if (firstNumber > secondNumber) {
 console.log(result);
 
 document.getElementById("demo").innerHTML = "The larger number is: " + result;
+// test to check a little thing
